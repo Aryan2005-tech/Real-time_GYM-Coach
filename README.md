@@ -179,28 +179,6 @@ http://localhost:8501
 8. Voice responses are played to the user.
 9. Workout history is stored in SQLite.
 
----
-
-## 📸 Screenshots
-
-### Login Screen
-
-*Add screenshot here*
-
-### Live Pose Detection
-
-*Add screenshot here*
-
-### Workout Dashboard
-
-*Add screenshot here*
-
-### Progress Tracking
-
-*Add screenshot here*
-
----
-
 ## 🔮 Future Improvements
 
 * Additional exercise support
