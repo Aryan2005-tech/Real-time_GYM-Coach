@@ -23,7 +23,6 @@ build/
 *.sqlite3
 
 # ML model files (large binaries)
-*.task
 *.tflite
 *.h5
 *.pt
