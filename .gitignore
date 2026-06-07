@@ -1,0 +1,56 @@
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Database
+*.db
+*.sqlite3
+
+# ML model files (large binaries)
+*.task
+*.tflite
+*.h5
+*.pt
+*.pth
+*.onnx
+*.pkl
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Misc
+*.bak
+*.tmp
